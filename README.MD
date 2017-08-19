@@ -5,7 +5,7 @@
 	npm install
 
 ##  修改gulpfile.js
-填入tinypng development key（官网自行申请）
+填入tinypng development key，官网自行申请，[点我申请](https://tinypng.com/developers)
 
 ##  执行压缩图片命令
     npm start
