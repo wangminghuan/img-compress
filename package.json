@@ -1,0 +1,24 @@
+{
+  "name": "img-compress",
+  "version": "1.0.0",
+  "description": "compress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"gulp compress-img"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wangminghuan/img-compress.git"
+  },
+  "author": "wmh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wangminghuan/img-compress/issues"
+  },
+  "homepage": "https://github.com/wangminghuan/img-compress#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-tinypng-compress": "^1.2.1"
+  }
+}
